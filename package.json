@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A professional README generator accepting user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cntrieu/README-Generator.git"
+  },
+  "keywords": [
+    "README",
+    "generator"
+  ],
+  "author": "cntrieu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cntrieu/README-Generator/issues"
+  },
+  "homepage": "https://github.com/cntrieu/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
