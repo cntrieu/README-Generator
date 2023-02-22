@@ -1,11 +1,11 @@
 
-  # wd
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  # README Generator
+  ![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
 
 
   ## Description
 
-  adw
+  A professional README generator
 
   ## Table of Contents
 
@@ -18,35 +18,35 @@
 
   ## Installation
 
-  gweafawdwa
+  install node.js and run npm install 
 
 
   ## Usage
 
-  waeqewqeqwewqeqwe
+  type node index.js in terminal
 
 
   ## Contributing
 
-  qdawdwadawda
+  Email me
 
 
   ## Tests
 
-  awdawdawdwa
+  n/a
 
 
   ## License
 
-  Apache License 2.0
-  
-  https://opensource.org/licenses/Apache-2.0
+  BSD 3-Clause License
+
+  https://opensource.org/licenses/BSD-3-Clause
 
 
   ## Questions
 
-  If you have any questions, feel free to reach out to me at:
+  If you have any questions, feel free to contact me at:
   
-  Github: https://github.com/awdawdadwaeqwe/
+  Github: https://github.com/cntrieu/
 
-  E-mail: adwadaw
+  E-mail: calvin.trieu@hotmail.com

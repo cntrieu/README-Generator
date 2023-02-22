@@ -22,3 +22,9 @@ Clone the repository and install node.js onto your device. In the console run 'n
 ## Usage
 
 In the command-line interface after installation, run the application by typing 'node index.js' and a README.md file with all your contents you've inputted will appear in the 'sample' folder.
+
+## Tests
+
+Here is a demo of the README generator in action:
+
+![video demonstration of the generator](./videodemo/videodemo.mp4)
