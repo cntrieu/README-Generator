@@ -27,4 +27,5 @@ In the command-line interface after installation, run the application by typing 
 
 Here is a demo of the README generator in action:
 
-![video demonstration of the generator](./videodemo/videodemo.mp4)
+https://user-images.githubusercontent.com/89812084/220527296-fd288703-1645-4188-9700-b18f1329d2f9.mp4
+
